@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0
+}
+html, body {
+	margin:0;
+	padding:0;
+}
+header{
+	background-color:#4cb0f6;
+	padding-bottom:55px;
+    padding-bottom: 10px;
+	}
+.logo{
+	background:url(../images/logo.png) no-repeat;
+	width:100%;
+    padding-bottom: 36px;
+    margin-top: 8px;
+
+	}
+.login-form{
+	float:right;
+    margin-top: 8px;
+	}
+.login-form input[type="text"]{
+	padding: 7px 21px;
+	border-radius:7px;
+	border:1px solid #ccc;
+	}
+.btn-login{
+	background:#0070c0;
+	color:#fff;
+	}
+main{
+	background:url(../images/content-back.jpg) no-repeat;
+	width:100%;
+    height: 640px;
+
+	}
+.txt-left-content p{
+	padding-top: 24px;
+    font-size: 20px;
+    color: #fff;
+	}
+.pad-left-cont{
+    padding-top: 15px;
+	}
+.pad-main-home{
+	padding-top:150px;
+	}
+.form-home{
+	padding-top: 35px;
+	}
+.form-inline{}
+
+.top-login .form-control {
+	background: transparent;
+}
+.form-home .form-inline .form-control {
+    margin-bottom: 8px;
+	width: 60%;
+    float: right;
+	background: transparent;
+}

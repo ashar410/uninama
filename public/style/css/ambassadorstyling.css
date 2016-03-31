@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0
+}
+html, body {
+	margin:0;
+	padding:0;
+}
+a{
+	text-decoration:none;
+	}
+a:hover, a:visited, a:active, a:focus{
+	text-decoration:none !important;
+	}
+body{
+	background:#fafafa !important;
+	}
+header{
+	background:url(../images/adduni/add-uni.jpg) repeat-x;
+	margin-bottom: 30px;
+	padding-top: 15px;
+	padding-bottom: 113px;
+	}
+main{
+	    padding-bottom: 50px;
+	}
+.logo{
+	background:url(../images/adduni/logo.png) no-repeat;
+	padding-bottom: 65px;
+	}
+.add-university{
+    background: #FFF;
+    color: #3dd0a8;
+    WIDTH: 300PX;
+    font-weight: bold;
+    font-size: 28px;
+    margin: 0 auto;
+    padding-bottom: 8px;
+    text-align: center;
+    border-radius: 8px;
+    padding-top: 7px;
+	}
+.top-right{
+	float:right;
+	margin-top: 20px;
+	}
+.top-right a{
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	font-size: 16px;
+    margin-left: 19px;
+	}
+.top-right a:hover{
+	color:#fff;
+	text-decoration:none;
+	font-weight:bold;
+	}
+.block-uni{
+	text-align:center;
+	color:#fff;
+	width: 250px;
+    height: 180px;
+	background:#ecf0f1;
+	margin:0 auto;
+    margin-bottom: 25px;
+	}
+.block-uni h3{
+	padding: 8px;
+    font-size: 16px;
+    margin-bottom: 45px;
+    font-weight: bold;
+
+	}
+.h3-1-uni-block{
+	
+    background: #d1bf74;
+	}
+.h3-2-uni-block{
+	
+    background: #6dd090;
+	}
+.h3-3-uni-block{
+	
+    background: #ec5151;
+	}
+.h3-4-uni-block{
+	
+    background: #4e98c8;
+	}
+.h3-5-uni-block{
+	
+    background: #f6e528;
+	}
+.h3-6-uni-block{
+	
+    background: #626d6e;
+	}
+.block-uni img{
+	margin:0 auto;
+	}
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
